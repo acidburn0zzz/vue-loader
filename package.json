@@ -76,7 +76,7 @@
     "gitbook-plugin-github": "^3.0.0",
     "gitbook-plugin-theme-vuejs": "^1.1.0",
     "js-yaml": "^3.9.1",
-    "jsdom": "^9.2.1",
+    "jsdom": "^16.5.0",
     "lint-staged": "^4.0.2",
     "marked": "^0.3.12",
     "memory-fs": "^0.4.1",
